@@ -1,0 +1,4 @@
+name,product_desc,category_id,style_id,image
+lamp,lamp description,2,2,lamp.png
+lamp2,lamp2 description,4,4,lamp2.png
+lamp3,lamp3 description,3,3,lamp3.png
